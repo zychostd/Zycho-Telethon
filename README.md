@@ -1,7 +1,7 @@
-# Zycho USERBOT TELEGRAM
+# Zycho Userbot
 
 <p align="center">
-   <img src="https://telegra.ph/file/860471ce923e76160ae31.jpg" width=350px>
+   <img src="https://telegra.ph/file/2e59d8f10bc9426f5575c.jpg" width=350px>
    <br>
    <br>
 </p>
