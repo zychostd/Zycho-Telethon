@@ -165,7 +165,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL", "https://github.com/zychostd/Zycho-Userbot.git"
 )
-UPSTREAM_REPO_BRANCH = os.environ.get("UPSTREAM_REPO_BRANCH", "Zycho-Ubot")
+UPSTREAM_REPO_BRANCH = os.environ.get("UPSTREAM_REPO_BRANCH", "Zycho-Ubot")F
 
 # Console verbose logging
 CONSOLE_LOGGER_VERBOSE = sb(os.environ.get("CONSOLE_LOGGER_VERBOSE", "False"))
@@ -248,11 +248,11 @@ S_PACK_NAME = os.environ.get("S_PACK_NAME", f"Sticker Pack {ALIVE_NAME}")
 
 # Default .alive logo
 ALIVE_LOGO = (
-    os.environ.get("ALIVE_LOGO") or "https://telegra.ph/file/860471ce923e76160ae31.jpg"
+    os.environ.get("ALIVE_LOGO") or "https://telegra.ph/file/2e59d8f10bc9426f5575c.jpg"
 )
 
 INLINE_PIC = (
-    os.environ.get("INLINE_PIC") or "https://telegra.ph/file/860471ce923e76160ae31.jpg"
+    os.environ.get("INLINE_PIC") or "https://telegra.ph/file/2e59d8f10bc9426f5575c.jpg"
 )
 
 # Last.fm Module
