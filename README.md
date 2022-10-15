@@ -37,7 +37,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 ## Updates dan support
 
-Follow Channel [@ZeldaProjects](https://t.me/ZeldaProjects) untuk info Update bot dan Gabung Group [@HCMutualism](https://t.me/HCMutualism) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Zycho-Userbot.
+Follow Channel [@ZeldaProjects](https://t.me/ZeldaProjects) untuk info Update bot dan Gabung Group [@virtualundercover](https://t.me/virtualundercover) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Zycho-Userbot.
 
 ## © Credits
 #### Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
